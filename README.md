@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:a
+I'm a mobile and backend developer with a passion for building B2B and B2C products and more than 7 years of experience bank sector and mostly in startups.
  
  🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
  
