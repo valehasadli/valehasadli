@@ -10,6 +10,4 @@
 
 ### I am Valeh ASADLI
 - An Open Source enthusiast.
-- A Computer Engineering Student at HNEU. 
-- Currently working on some of my cool side projects based on Mobile Development.
-- I'm currently looking for Flutter opportunities. I love to learn and contribute in any and every possible way.
+- A Computer Engineering Student at KHNEU. 
