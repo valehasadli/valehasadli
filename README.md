@@ -10,5 +10,4 @@
 
 ### I am Valeh ASADLI
 - An Open Source enthusiast.
-- A Computer Engineering Student at KHNEU. 
-- Flutter supporter, backend engineer
+- Backend engineer 👨‍💻 
