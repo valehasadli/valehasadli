@@ -1,13 +1,20 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+# Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
+[![LinkedIn](https://img.shields.io/badge/-Valeh%20ASADLI-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/valehasad/)](https://www.linkedin.com/in/valehasad/)
 
-<a href="https://www.linkedin.com/in/valehasad/">
-  <img align="left" alt="Valeh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### I am Valeh ASADLI
-- An Open Source enthusiast.
-- Backend engineer 👨‍💻 
+## About Me
+I am Valeh ASADLI, a Full-Stack Software Engineer and an open-source enthusiast.
+
+## Skills
+- Full-stack web development
+- Front-end: HTML, CSS, JavaScript, React
+- Back-end: Java, Spring Boot, PHP, Laravel, Python
+- Databases: MySQL, PostgreSQL
+- Version Control: Git, GitHub
+- Agile methodologies
+
+## Contact
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/valehasad/) if you have any questions or opportunities for collaboration!
+
