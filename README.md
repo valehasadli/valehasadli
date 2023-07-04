@@ -15,6 +15,7 @@ I am Valeh ASADLI, a Full-Stack Software Engineer and an open-source enthusiast.
 - Databases: MySQL, PostgreSQL
 - Version Control: Git, GitHub
 - Agile methodologies
+- Microservices, Kubernetes
 
 ## Contact
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/valehasad/) if you have any questions or opportunities for collaboration!
