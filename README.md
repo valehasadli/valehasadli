@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ## About Me
-I am Valeh ASADLI, a Full-Stack Software Engineer and an open-source enthusiast.
+I am Valeh, a Full-Stack Software Engineer and an open-source enthusiast.
 
 ## Skills
 - Full-stack web & mobile application development
