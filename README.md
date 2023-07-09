@@ -10,7 +10,8 @@ I am Valeh ASADLI, a Full-Stack Software Engineer and an open-source enthusiast.
 ## Skills
 - Full-stack web & mobile application development
 - Front-end: HTML, CSS, JavaScript, TypeScript, React
-- Back-end: Java, Spring Boot, PHP, Laravel, Python
+- Back-end: Java, PHP, Python, NodeJS
+- Frameworks: Spring Boot, Laravel, Express, NestJS
 - Mobile: Dart, Flutter
 - Databases: MySQL, PostgreSQL
 - Version Control: Git, GitHub
